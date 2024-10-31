@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Robokassa Shortcode v1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-11 00:22+0700\n"
+"PO-Revision-Date: 2014-12-14 16:05:58+0000\n"
+"Last-Translator: Denis <loomst@gmail.com>\n"
+"Language-Team: loomstudio <loomst@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: robokassa_shortcode.php:22
+#@ rksc
+msgid "Insert robokassa shortcode"
+msgstr "Вставить код робокассы"
+
+#: robokassa_shortcode.php:35
+#@ rksc
+msgid "Main Settings"
+msgstr "Настройки плагна"
+
+#: robokassa_shortcode.php:36
+#@ rksc
+msgid "Merchant ID"
+msgstr "Имя магазина"
+
+#: robokassa_shortcode.php:37
+#@ rksc
+msgid "Key #1"
+msgstr ""
+
+#: robokassa_shortcode.php:38
+#@ rksc
+msgid "Key #2"
+msgstr ""
+
+#: robokassa_shortcode.php:39
+#@ rksc
+msgid "Test mode"
+msgstr "Включить тестовый режим"
+
+#: robokassa_shortcode.php:40
+#@ rksc
+msgid "Success url"
+msgstr "Переход после успешного платежа"
+
+#: robokassa_shortcode.php:41
+#@ rksc
+msgid "Fail url"
+msgstr "Переход после неудачного платежа"
+
+#: robokassa_shortcode.php:42
+#@ rksc
+msgid "Site password"
+msgstr "Внутненний пароль"
+
+#: robokassa_shortcode.php:43
+#@ rksc
+msgid "Send email to admin"
+msgstr "Оповещать администратора"
+
+#: robokassa_shortcode.php:44
+#@ rksc
+msgid "Email body"
+msgstr "Тексто оповещения о платеже"
+
+#: robokassa_shortcode.php:58
+#@ default
+msgid "Main description of this section here."
+msgstr "Настройти ваш плагин"
+
+#: inc/widget.php:60
+#: robokassa_shortcode.php:87
+#@ rksc
+msgid "Name"
+msgstr "Имя"
+
+#: inc/widget.php:61
+#: robokassa_shortcode.php:88
+#@ rksc
+msgid "email"
+msgstr ""
+
+#: inc/widget.php:64
+#: robokassa_shortcode.php:91
+#: robokassa_shortcode.php:217
+#@ rksc
+msgid "Price"
+msgstr "Сумма"
+
+#: robokassa_shortcode.php:215
+#@ rksc
+msgid "SKU"
+msgstr "Артикул"
+
+#: robokassa_shortcode.php:216
+#@ rksc
+msgid "Description"
+msgstr "Описание"
+
+#: robokassa_shortcode.php:219
+#@ gravityforms
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/widget.php:9
+#@ rksc
+msgid "Robokassa shortcode widget"
+msgstr "Виджет робокассы"
+
+#: inc/widget.php:18
+#@ rksc
+msgid "New title"
+msgstr "Новый виджет"
+
+#: inc/widget.php:25
+#@ default
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widget.php:30
+#@ default
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: inc/widget.php:34
+#@ default
+msgid "Description:"
+msgstr "Описание:"
+
+#: inc/widget.php:38
+#, fuzzy
+#@ default
+msgid "Price:"
+msgstr "Сумма"
+
+#: robokassa_shortcode.php:53
+#@ default
+msgid "Save Changes"
+msgstr ""
+
